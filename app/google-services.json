@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "884270313637",
+    "firebase_url": "https://coral-turbine-270610.firebaseio.com",
+    "project_id": "coral-turbine-270610",
+    "storage_bucket": "coral-turbine-270610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884270313637:android:cbccfb8628978a00da1d4c",
+        "android_client_info": {
+          "package_name": "com.example.firbaseaddretrieve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884270313637-cidn0mv0c6mo5ajs406444qju5616naf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkwv01DvcysWg69gbiuAy10E2erFCzfMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884270313637-cidn0mv0c6mo5ajs406444qju5616naf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
